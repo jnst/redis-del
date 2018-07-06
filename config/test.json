@@ -1,0 +1,10 @@
+{
+  "delete_keys": [
+    "SAMPLE_*",
+    "TEST_*"
+  ],
+  "redis": {
+    "host": "",
+    "port": 6379
+  }
+}
